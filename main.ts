@@ -48,6 +48,14 @@ if (
   process.exit(1);
 }
 
+const url = (parsed as { url: string }).url;
+if (!url.startsWith('https://www.tiktok.com/') || !url.includes('/video/')) {
+  console.error(
+    'VIDEO.json "url" must be a TikTok video URL (https://www.tiktok.com/.../video/...)',
+  );
+  process.exit(1);
+}
+
 mkdirSync(outDir, { recursive: true });
 try {
   writeFileSync(target, raw);
