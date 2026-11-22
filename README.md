@@ -1,6 +1,10 @@
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/zul456/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/zul456/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 # bring-the-humans-03 — TikTok ad for make.fun
 
-An entry for make.fun's bounty "Bring the humans with a TikTok ad": an original
+An entry for make.fun's bounty ["Bring the humans with a TikTok ad"](https://make.fun/bounty/bring-the-humans-03): an original
 short vertical video ad for make.fun, posted publicly on TikTok from the public
 account @lokallahbre. Places go by the video's views, the most first; the top 20
 share $500. Only views from real people count.
